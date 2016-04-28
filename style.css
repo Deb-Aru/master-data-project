@@ -24,7 +24,9 @@
     border: none;
 
 }
-
+.col-sm-3 {
+	margin-left: 0;
+}
 
 #title{
     width: 100%;
@@ -45,7 +47,7 @@
 	
 	 }
 .container{
-	margin:0;
+	margin:10px;
 
 }
 
