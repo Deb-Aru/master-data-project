@@ -91,4 +91,8 @@
 		position: absolute;
 		left: 0;
 	}
+.footer-pad {
+	text-align: right;	
+	width: 90%;
+}
 
